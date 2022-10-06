@@ -1,4 +1,5 @@
-PROJECT CRUD
+BLUEPRINT FABRIC
+PROJECT CRUD FACTOR
 Authentic Africa Fabric for your project 
 PROJECT INTRODUCTION
 The site is created to depict CRUD (Create, Read, Update, Delete) functionalities and Database relationship by means of capturing user data. It will show the connection of the frontend (html) connectivity with the backend (Mysql) database. The site will be created by using SDLC( System Development Life Cycle) for planning, creating, testing and deploying. Deployment via CI/CD pipeline, containerisation through to deployment. Coding will be created with python/Flask,tested on jenkins declarative environment via containers, Docker, Docker Swarm and Az portal for deployment.
